@@ -6,7 +6,7 @@ def functioncall():
     :return:
     """
 
-    Anumber(0)
+    Anumber(2)
 
 if __name__ == "__main__":
         functioncall()
