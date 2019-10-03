@@ -2,7 +2,7 @@ import sys
 
 def Anumber(someint: str):
     """
-
+    Thjis is a comment addition made 10-3 12:09 to test git
     :param someint:
     :return: v_text -- a text representation of base numbers 0-9
     """
